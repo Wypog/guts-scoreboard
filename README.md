@@ -1,6 +1,6 @@
 # Guts Round Live Scoreboard
 
-A dynamic, interactive scoreboard designed for Stratford School's Guts Round mathematics competitions. This web-based application provides real-time score tracking with a clean, professional interface using Stratford's brand colors.
+A dynamic, interactive scoreboard designed for Guts Round mathematics competitions. This web-based application provides real-time score tracking with a clean, professional interface.
 
 ## Features
 
@@ -28,7 +28,7 @@ A dynamic, interactive scoreboard designed for Stratford School's Guts Round mat
   - Centered 75% width display for optimal visibility
 
 ### Visual Design
-- **Stratford School Branding**
+- **Clean**
   - Navy Blue (#002147)
   - Gold (#FFD700)
   - Red (#C8102E)
@@ -80,7 +80,7 @@ Works in all modern browsers that support:
 
 ## License
 
-This project is open source and available for use by Stratford School and other educational institutions.
+This project is open source and available for use.
 
 ## Contributing
 
